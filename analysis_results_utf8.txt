@@ -1,0 +1,179 @@
+﻿Analyzing APK test...                                           
+
+   info - 'background' is deprecated and shouldn't be used. Use surface instead. This feature was deprecated after v3.18.0-0.1.pre - lib\core\theme\app_theme.dart:27:9 - deprecated_member_use
+   info - Use 'const' with the constructor to improve performance - lib\features\admin\comptabilite\accounting_screen.dart:379:21 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\features\admin\comptabilite\accounting_screen.dart:380:21 - prefer_const_literals_to_create_immutables
+warning - The value of the local variable 'reports' isn't used - lib\features\admin\comptabilite\accounting_screen.dart:644:11 - unused_local_variable
+warning - The value of the field '_invoiceIdQuery' isn't used - lib\features\admin\comptabilite\archives_screen.dart:80:10 - unused_field
+   info - Statements in an if should be enclosed in a block - lib\features\admin\comptabilite\archives_screen.dart:764:11 - curly_braces_in_flow_control_structures
+   info - Use 'const' with the constructor to improve performance - lib\features\admin\comptabilite\clients_screen.dart:122:40 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\admin\comptabilite\clients_screen.dart:315:39 - prefer_const_constructors
+   info - Dangling library doc comment - lib\features\admin\comptabilite\comptabilite.dart:1:1 - dangling_library_doc_comments
+   info - Use 'const' with the constructor to improve performance - lib\features\admin\comptabilite\screens\monthly_report_screen.dart:30:26 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\admin\comptabilite\screens\monthly_report_screen.dart:164:41 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\admin\comptabilite\screens\monthly_report_screen.dart:180:37 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\admin\comptabilite\screens\monthly_report_screen.dart:201:53 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\features\admin\comptabilite\screens\monthly_report_screen.dart:202:53 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\features\admin\comptabilite\screens\monthly_report_screen.dart:349:37 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\admin\comptabilite\screens\monthly_report_screen.dart:351:46 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\admin\comptabilite\screens\monthly_report_screen.dart:428:32 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\admin\comptabilite\screens\monthly_report_screen.dart:457:30 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\features\admin\comptabilite\screens\monthly_report_screen.dart:459:35 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\features\admin\comptabilite\screens\monthly_report_screen.dart:460:27 - prefer_const_constructors
+   info - Statements in an if should be enclosed in a block - lib\features\admin\comptabilite\widgets\invoice_ticket_widget.dart:122:9 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\admin\comptabilite\widgets\invoice_ticket_widget.dart:124:9 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\admin\comptabilite\widgets\invoice_ticket_widget.dart:126:9 - curly_braces_in_flow_control_structures
+   info - Use 'const' with the constructor to improve performance - lib\features\admin\comptabilite\widgets\invoice_ticket_widget.dart:151:19 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\admin\comptabilite\widgets\invoice_ticket_widget.dart:172:34 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\admin\comptabilite\widgets\invoice_ticket_widget.dart:194:30 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\features\admin\comptabilite\widgets\invoice_ticket_widget.dart:196:35 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\features\admin\comptabilite\widgets\invoice_ticket_widget.dart:197:27 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\admin\comptabilite\widgets\invoice_ticket_widget.dart:203:27 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\admin\comptabilite\widgets\invoice_ticket_widget.dart:205:36 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\admin\comptabilite\widgets\invoice_ticket_widget.dart:218:28 - prefer_const_constructors
+warning - Unused import: '../../../core/di/injection_container.dart' - lib\features\admin\dashboard\admin_dashboard.dart:20:8 - unused_import
+   info - Use 'const' with the constructor to improve performance - lib\features\admin\dashboard\admin_dashboard.dart:704:15 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\admin\dashboard\admin_dashboard.dart:706:24 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\admin\dashboard\admin_dashboard.dart:714:11 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\admin\dashboard\admin_dashboard.dart:752:19 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\features\admin\dashboard\admin_dashboard.dart:754:31 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\features\admin\dashboard\admin_dashboard.dart:763:23 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\admin\dashboard\admin_dashboard.dart:765:32 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\admin\dashboard\admin_dashboard.dart:833:20 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\features\admin\dashboard\admin_dashboard.dart:834:25 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\features\admin\dashboard\admin_dashboard.dart:1143:9 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\admin\dashboard\admin_dashboard.dart:1145:18 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\admin\dashboard\admin_dashboard.dart:1297:19 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\features\admin\dashboard\admin_dashboard.dart:1298:31 - prefer_const_literals_to_create_immutables
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\features\admin\gestion\admin_management\admin_management_screen.dart:132:47 - prefer_const_literals_to_create_immutables
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\features\admin\gestion\admin_management\admin_management_screen.dart:183:65 - prefer_const_literals_to_create_immutables
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\features\admin\gestion\admin_management\admin_management_screen.dart:210:47 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\features\admin\gestion\admin_management\admin_management_screen.dart:329:31 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\admin\gestion\admin_management\admin_management_screen.dart:330:31 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\features\admin\gestion\admin_management\admin_management_screen.dart:331:31 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\features\admin\gestion\admin_management\admin_management_screen.dart:389:17 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\admin\gestion\admin_management\admin_management_screen.dart:398:17 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\features\admin\gestion\admin_management\admin_management_screen.dart:550:37 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\features\admin\gestion\admin_management\admin_management_viewmodel.dart:75:49 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\admin\gestion\admin_management\admin_management_viewmodel.dart:149:51 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\admin\gestion\personnel\personnel_screen.dart:104:37 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\features\admin\gestion\personnel\personnel_screen.dart:105:37 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\features\admin\gestion\personnel\personnel_screen.dart:187:13 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\features\admin\gestion\personnel\personnel_screen.dart:187:36 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\features\admin\gestion\personnel\personnel_screen.dart:228:31 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\features\admin\gestion\personnel\personnel_screen.dart:229:33 - prefer_const_literals_to_create_immutables
+   info - Statements in an if should be enclosed in a block - lib\features\admin\gestion\personnel\personnel_screen.dart:268:29 - curly_braces_in_flow_control_structures
+   info - Use 'const' with the constructor to improve performance - lib\features\admin\gestion\price_management_screen.dart:505:21 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\features\admin\gestion\price_management_screen.dart:506:21 - prefer_const_literals_to_create_immutables
+warning - Unused import: '../../../../core/di/injection_container.dart' - lib\features\admin\gestion\register_client\register_client_screen.dart:8:8 - unused_import
+warning - The value of the field '_authService' isn't used - lib\features\admin\gestion\register_client\register_client_screen.dart:30:21 - unused_field
+warning - The value of the field '_invoiceService' isn't used - lib\features\admin\gestion\register_client\register_client_screen.dart:31:24 - unused_field
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\features\admin\gestion\register_client\register_client_screen.dart:289:37 - prefer_const_literals_to_create_immutables
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\features\admin\gestion\register_client\register_client_screen.dart:430:39 - prefer_const_literals_to_create_immutables
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\features\admin\gestion\register_client\register_client_screen.dart:708:37 - prefer_const_literals_to_create_immutables
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\features\admin\gestion\register_client\register_client_screen.dart:928:34 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\features\admin\gestion\register_client\register_client_screen.dart:947:34 - use_build_context_synchronously
+   info - Use 'const' with the constructor to improve performance - lib\features\auth\data\repositories\auth_repository_impl.dart:70:14 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\auth\data\repositories\auth_repository_impl.dart:70:19 - prefer_const_constructors
+   info - Don't invoke 'print' in production code - lib\features\auth\services\auth_service.dart:38:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\auth\services\auth_service.dart:97:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\auth\services\auth_service.dart:295:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\auth\services\auth_service.dart:297:7 - avoid_print
+   info - Statements in an if should be enclosed in a block - lib\features\auth\services\auth_service.dart:305:13 - curly_braces_in_flow_control_structures
+   info - Don't invoke 'print' in production code - lib\features\auth\services\auth_service.dart:309:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\auth\services\auth_service.dart:314:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\auth\services\auth_service.dart:321:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\auth\services\auth_service.dart:325:9 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\auth\services\auth_service.dart:330:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\auth\services\auth_service.dart:335:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\auth\services\auth_service.dart:338:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\auth\services\auth_service.dart:343:9 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\auth\services\auth_service.dart:350:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\auth\services\auth_service.dart:353:5 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\auth\services\auth_service.dart:358:5 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\auth\services\auth_service.dart:364:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\auth\services\auth_service.dart:371:7 - avoid_print
+   info - Use 'const' with the constructor to improve performance - lib\features\personnel\presentation\viewmodels\personnel_viewmodel.dart:67:50 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\personnel\presentation\viewmodels\personnel_viewmodel.dart:87:35 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\price_management\data\repositories\price_repository_impl.dart:47:16 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\features\price_management\data\repositories\price_repository_impl.dart:47:21 - prefer_const_constructors
+   info - The parameter name 'sum' matches a visible type name - lib\features\shared\models\room_state.dart:188:31 - avoid_types_as_parameter_names
+   info - Don't invoke 'print' in production code - lib\features\shared\models\room_state.dart:268:21 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\shared\models\room_state.dart:284:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\shared\providers\room_map_provider.dart:32:9 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\shared\providers\room_map_provider.dart:39:9 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\shared\services\audit_log_service.dart:33:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\shared\services\audit_log_service.dart:63:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\shared\services\audit_log_service.dart:88:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\shared\services\audit_log_service.dart:113:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\shared\services\audit_log_service.dart:168:7 - avoid_print
+   info - Statements in an if should be enclosed in a block - lib\features\shared\services\invoice_service.dart:493:17 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\shared\services\invoice_service.dart:495:17 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\shared\services\invoice_service.dart:497:17 - curly_braces_in_flow_control_structures
+   info - Use 'rethrow' to rethrow a caught exception - lib\features\shared\services\invoice_service.dart:1037:7 - use_rethrow_when_possible
+   info - The parameter name 'sum' matches a visible type name - lib\features\shared\services\invoice_service.dart:1174:40 - avoid_types_as_parameter_names
+   info - The parameter name 'sum' matches a visible type name - lib\features\shared\services\invoice_service.dart:1209:40 - avoid_types_as_parameter_names
+   info - Don't invoke 'print' in production code - lib\features\shared\services\notification_service.dart:37:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\shared\services\notification_service.dart:38:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\shared\services\notification_service.dart:48:9 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\shared\services\notification_service.dart:63:13 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\shared\services\notification_service.dart:68:13 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\shared\services\notification_service.dart:70:13 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\shared\services\notification_service.dart:78:11 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\shared\services\notification_service.dart:95:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\shared\services\notification_service.dart:104:7 - avoid_print
+   info - Use 'rethrow' to rethrow a caught exception - lib\features\shared\services\notification_service.dart:105:7 - use_rethrow_when_possible
+   info - Don't invoke 'print' in production code - lib\features\shared\services\notification_service.dart:120:9 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\shared\services\notification_service.dart:132:9 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\shared\services\notification_service.dart:145:7 - avoid_print
+warning - Unused import: 'package:cloud_firestore/cloud_firestore.dart' - lib\features\shared\services\personnel_service.dart:2:8 - unused_import
+warning - Unused import: 'package:cloud_firestore/cloud_firestore.dart' - lib\features\shared\services\price_management_service.dart:2:8 - unused_import
+warning - Unused import: '../../../core/di/injection_container.dart' - lib\features\shared\services\room_map_service.dart:6:8 - unused_import
+   info - Don't invoke 'print' in production code - lib\features\shared\services\room_map_service.dart:13:5 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\shared\services\room_map_service.dart:17:5 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\shared\services\room_map_service.dart:44:5 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\shared\services\room_map_service.dart:57:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\shared\services\room_map_service.dart:67:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\shared\services\room_map_service.dart:69:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\shared\services\room_map_service.dart:77:11 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\shared\services\room_map_service.dart:85:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\shared\services\room_map_service.dart:89:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\shared\services\room_map_service.dart:130:9 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\shared\services\room_map_service.dart:132:9 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\shared\services\room_map_service.dart:139:5 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\shared\services\room_map_service.dart:148:9 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\shared\services\room_map_service.dart:153:5 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\shared\services\room_map_service.dart:159:5 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\shared\services\room_map_service.dart:163:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\shared\services\room_map_service.dart:221:5 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\shared\services\room_map_service.dart:233:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\shared\services\room_map_service.dart:235:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\shared\services\room_map_service.dart:249:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\shared\services\room_map_service.dart:258:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\shared\services\room_map_service.dart:292:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\shared\services\room_map_service.dart:294:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\shared\services\room_map_service.dart:319:7 - avoid_print
+warning - The value of the local variable 'invoice' isn't used - lib\features\shared\services\room_map_service.dart:392:11 - unused_local_variable
+   info - Don't invoke 'print' in production code - lib\features\shared\services\room_map_service.dart:443:9 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\shared\services\room_map_service.dart:475:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\shared\services\room_map_service.dart:477:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\shared\services\room_map_service.dart:497:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\shared\services\room_map_service.dart:521:5 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\shared\services\room_map_service.dart:522:5 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\shared\services\room_map_service.dart:523:5 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\shared\services\room_map_service.dart:527:5 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\shared\services\room_map_service.dart:531:5 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\shared\services\room_map_service.dart:536:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\shared\services\room_map_service.dart:541:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\shared\services\room_map_service.dart:543:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\shared\services\room_map_service.dart:550:5 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\shared\services\room_map_service.dart:573:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\shared\services\room_map_service.dart:578:7 - avoid_print
+   info - Use 'const' with the constructor to improve performance - lib\shared\widgets\minimalist_arc_gauge.dart:68:22 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\shared\widgets\minimalist_arc_gauge.dart:71:15 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\shared\widgets\occupied_room_details_sheet.dart:210:19 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\shared\widgets\occupied_room_details_sheet.dart:211:31 - prefer_const_literals_to_create_immutables
+warning - The value of the local variable 'iconColor' isn't used - lib\shared\widgets\room_map_grid.dart:201:11 - unused_local_variable
+   info - Use 'const' with the constructor to improve performance - lib\shared\widgets\room_map_grid.dart:327:34 - prefer_const_constructors
+  error - Undefined name 'FontWeight' - test\features\admin\comptabilite\invoice_constants_test.dart:36:53 - undefined_identifier
+
